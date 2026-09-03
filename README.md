@@ -10,3 +10,7 @@
 - balance visibility
 - renewal notification
 - whitelabel brand support
+
+## Overview
+
+International Calling Pack lets users buy affordable calling minutes for selected countries, track usage, and renew packs with clear balance and rating visibility.
